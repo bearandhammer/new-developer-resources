@@ -41,11 +41,23 @@ I would also recommend checking out [Bulma](https://bulma.io/).
 
 In an effort to keep this technology-agnostic (for now), one of the core things I can recommend is to hunt out some resources on SOLID design principles.
 
+The following, all by Robert C. Martin (Uncle Bob), are thoroughly recommended:
+
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164).
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_lpo_1?pd_rd_i=0132350882&psc=1).
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073).
+
+When I started out I found the *O'Reilly Head First* series really useful (specifically for C#), and there is a new .NET Core specific book our which ties in some Unity 3D (invariably will be fun): [Head First C#: A Learner's Guide to Real-World Programming with C# and .NET Core](https://www.amazon.com/_/dp/1491976705?tag=oreilly20-20). 
+
 ---
 
 ## 1.4. Practices & Patterns
 
-TBD
+A brief cheatsheet of things to look for:
+
+- SOLID design principles.
+- CQRS/Event Sourcing.
+- [The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique).
 
 ---
 
