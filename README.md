@@ -1,5 +1,7 @@
 # 1. New Developer Resources
   
+***WORK IN PROGRESS (THIS WILL BE ADJUSTED AND IMPROVED)***
+
 A quick, one-stop-shop covering resources that may be useful for new developers (#OpinionsAreMyOwn).
 
 These may be useful whether you are building a career in software development or are just looking for good resources to strengthen/sharpen existing skills.
