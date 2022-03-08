@@ -12,6 +12,7 @@ These may be useful whether you are building a career in software development or
   - [1.3. Backend](#13-backend)
   - [1.4. Practices & Patterns](#14-practices--patterns)
   - [1.5. Who to follow](#15-who-to-follow)
+    - [1.5.1. Podcasts](#151-podcasts)
   - [1.6. Tools/extensions](#16-toolsextensions)
 
 ## 1.1. Introduction
@@ -67,22 +68,19 @@ A brief cheatsheet of things to look for:
 
 Blogs
 
-https://blog.cleancoder.com/
+- The excellent Robert C. Martin Clean Coder blog: [cleancoder.com](https://blog.cleancoder.com/).
+- Scott Hanselman's superb blog, well worth following: [hanselman.com/blog](https://www.hanselman.com/blog/).
+- For SQL Server, the SQL Authority site (with Pinal Dave) is a great resource: [blog.sqlauthority.com](https://blog.sqlauthority.com/).
+- Finally, for kicks Jeff Atwood's Coding Horror blog should be in your arsenal of bookmarks: [blog.codinghorror.com](https://blog.codinghorror.com/).
 
-https://www.hanselman.com/blog/
+### 1.5.1. Podcasts
 
-https://blog.sqlauthority.com/
-
-https://hanselminutes.com/
-
-https://blog.codinghorror.com/
+- I very enjoy and recommend Scott Hanselman's podcast, talking to people all across the technology industry about a vast array of subjects: [hanselminutes.com](https://hanselminutes.com/).
 
 ## 1.6. Tools/extensions
 
-Regex Online Tester: https://regex101.com/
-
-https://fluentassertions.com/introduction
-
-https://xunit.net/
-
-https://github.com/moq/moq4
+- As far a multi-platform/multi-language and extensible IDE, Visual Studio Code is an excellent choice: [code.visualstudio.com](https://code.visualstudio.com/).
+- Regex Online Tester: [regex101.com](https://regex101.com/).
+- FluentAssertions library for Unit Testing (C#): [fluentassertions.com](https://fluentassertions.com/introduction).
+- xUnit library for Unit Testing (C#): [xunit.net](https://xunit.net/).
+- Moq library for Unit Testing (C#): [moq](https://github.com/moq/moq4).
