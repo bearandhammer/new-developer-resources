@@ -12,6 +12,7 @@ These may be useful whether you are building a career in software development or
   - [1.3. Backend](#13-backend)
   - [1.4. Practices & Patterns](#14-practices--patterns)
   - [1.5. Who to follow](#15-who-to-follow)
+    - [Podcasts](#podcasts)
   - [1.6. Tools/extensions](#16-toolsextensions)
 
 ## 1.1. Introduction
@@ -67,15 +68,14 @@ A brief cheatsheet of things to look for:
 
 Blogs
 
-https://blog.cleancoder.com/
+- The excellent Robert C. Martin Clean Coder blog: [cleancoder.com](https://blog.cleancoder.com/).
+- Scott Hanselman's superb blog, well worth following: [hanselman.com/blog](https://www.hanselman.com/blog/).
+- For SQL Server, the SQL Authority site (with Pinal Dave) is a great resource: [blog.sqlauthority.com](https://blog.sqlauthority.com/).
+- Finally, for kicks Jeff Atwood's Coding Horror blog should be in your arsenal of bookmarks: [blog.codinghorror.com](https://blog.codinghorror.com/).
 
-https://www.hanselman.com/blog/
+### Podcasts
 
-https://blog.sqlauthority.com/
-
-https://hanselminutes.com/
-
-https://blog.codinghorror.com/
+- I very enjoy and recommend Scott Hanselman's podcast, talking to people all across the technology industry about a vast array of subjects: [hanselminutes.com](https://hanselminutes.com/).
 
 ## 1.6. Tools/extensions
 
