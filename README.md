@@ -73,6 +73,12 @@ Blogs
 - For SQL Server, the SQL Authority site (with Pinal Dave) is a great resource: [blog.sqlauthority.com](https://blog.sqlauthority.com/).
 - Finally, for kicks Jeff Atwood's Coding Horror blog should be in your arsenal of bookmarks: [blog.codinghorror.com](https://blog.codinghorror.com/).
 
+GitHub Repos (curated lists):
+
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - An interesting list of tools (systems, networks, devops, etc.).
+- [Awesome .NET](https://github.com/quozd/awesome-dotnet) - A collection of .NET tools, libraries, etc. (with a fair few contributors) to check out if .NET is your thing.
+- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core). Similar to the above, but slanted towards .NET Core.
+
 ### 1.5.1. Podcasts
 
 - I very enjoy and recommend Scott Hanselman's podcast, talking to people all across the technology industry about a vast array of subjects: [hanselminutes.com](https://hanselminutes.com/).
